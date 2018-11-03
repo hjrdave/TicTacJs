@@ -35,6 +35,7 @@ body {
     padding: 0;
     text-align: center;
     width: 100px;
+    color:#282c34;
   }
   
   .square:focus {
@@ -54,10 +55,32 @@ body {
   }
   
   .game-info {
+  
     margin-left: 20px;
-    display:none;
+    color:white;
+    width: 150px;
+    margin-top: 50px;
   }
-
+  .game-info ol{
+    padding-left:20px;
+  }
+  
+  .game-info ol li p a {
+    color:white;
+    text-decoration:none;
+    font-size: 0.8rem;
+    line-height: 0rem;
+  }
+  .game-info ol li p{
+    line-height: 0rem;
+  }
+  .game-info p{
+    font-size: 1.1rem!important;
+    text-align: left;
+  }
+.game-board p{
+  font-size: 1.3rem;
+}
   /*header*/
   header{
     width: 100%;
