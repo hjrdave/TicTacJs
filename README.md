@@ -1,6 +1,8 @@
 # TicTacReact
 A  simple TicTacToe game created with React.js. Based off of the React.js tutorial at https://reactjs.org/tutorial/tutorial.html.
 
+To play game you can go to https://tictacreactgame.herokuapp.com/
+
 ##Create React App info
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
